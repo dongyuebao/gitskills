@@ -1,2 +1,2 @@
 # gitskills
-git branch master
+git branch feature1
